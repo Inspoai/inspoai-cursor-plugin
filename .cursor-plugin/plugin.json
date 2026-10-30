@@ -1,0 +1,22 @@
+{
+  "name": "inspoai",
+  "version": "1.0.0",
+  "description": "Design UI screens, explore website inspiration, and create animated shader backgrounds with InspoAI.",
+  "author": {
+    "name": "InspoAI",
+    "email": "inspoai.live@gmail.com"
+  },
+  "homepage": "https://app.inspoai.io",
+  "keywords": [
+    "design",
+    "ui-design",
+    "website-inspiration",
+    "design-systems",
+    "shaders",
+    "mcp"
+  ],
+  "logo": "logo.png",
+  "mcpServers": "mcp.json",
+  "license": "MIT",
+  "repository": "https://github.com/Inspoai/inspoai-cursor-plugin"
+}
